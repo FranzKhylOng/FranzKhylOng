@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React.JS Components in CodeCademy**
 
-- 👨‍💻 My current website (WIP, Just started learning HTML & CSS) [https://franzkhylong.github.io/site/](https://franzkhylong.github.io/site/)
+- 👨‍💻 My current website [https://franzkhylong.github.io/ReactSite](https://franzkhylong.github.io/ReactSite)
 
 - 📫 How to reach me **FranzKhylM.Ong@gmail.com**
 
