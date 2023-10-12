@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Franz Khyl Ong!</h1>
 <h3 align="center">A passionate computer engineering student seeking to establish his career utilizing his skills & knowledge and to gain experience while continuing to learn everyday</h3>
 
-- 🌱 I’m currently learning **Coursera's Google Data Analytics Course**
-
 - 👨‍💻 My current website [https://franzkhylong.github.io/ReactSite](https://franzkhylong.github.io/ReactSite)
 
 - 📫 How to reach me **FranzKhylM.Ong@gmail.com**
