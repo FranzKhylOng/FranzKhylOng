@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Franz Khyl Ong</h1>
-<h3 align="center">A passionate backend engineer</h3>
+<h3 align="center">A passionate backend engineer seeking to continuously learn and grow every single day</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franzkhylong&label=Profile%20views&color=0e75b6&style=flat" alt="franzkhylong" /> </p>
 
