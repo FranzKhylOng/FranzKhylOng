@@ -16,6 +16,3 @@
 <a href="https://www.leetcode.com/franz206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="franz206" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franzkhylong&" alt="franzkhylong" /></p>
-
-[![FranzKhylOng's GitHub | Stats](https://stats.quine.sh/FranzKhylOng/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=FranzKhylOng)
